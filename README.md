@@ -30,8 +30,8 @@ Twitter: [@nhihin](https://twitter.com/NhiHin)
 
 ## Awards
 
-- **2017 - 2020 -** Master of Philosophy Scholarship, *University of Adelaide*
 - **2019 -** Best Student Presentation Award,  *Australia-Japan Joint Neurodegenerative Disease Symposium, Adelaide*
+- **2017 - 2018 -** Master of Philosophy Scholarship (no honours), *University of Adelaide*
 - **2017 -** Top 3 Presentation Award, *COMBINE 2017, Adelaide*
 - **2017 -** Best Poster Award, <i>Model Organisms in Human Health Australia (MOHHA), Melbourne</i>
 - **2015, 2016 -** Summer Research Scholarship, *University of Adelaide*
