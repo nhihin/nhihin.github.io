@@ -1,6 +1,6 @@
 # Nhi Hin
 
-PhD student based at the University of Adelaide's Bioinformatics Hub and Alzheimer's Disease Genetics Laboratory. 
+PhD student based at the University of Adelaide's [Bioinformatics Hub](https://twitter.com/UofABioinfoHub) and [Alzheimer's Disease Genetics Laboratory](https://facebook.com/forgetfulfish). 
 
 Twitter: [@nhihin](https://twitter.com/NhiHin)
 
