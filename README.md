@@ -14,15 +14,19 @@ Twitter: [@nhihin](https://twitter.com/NhiHin)
 
 ## Conferences
 
-- Computational Analysis Reveals an Early Brain Iron Deficiency Response in a Zebrafish Model of Familial Alzheimer's Disease. Presented at [Alzheimer's Association Satellite Symposium](https://www.alz.org/sydney/overview.asp), September 2019. Sydney, Australia. [Download Poster]().
+- Computational Analysis Reveals an Early Brain Iron Deficiency Response in a Zebrafish Model of Familial Alzheimer's Disease. Presented at [Alzheimer's Association Satellite Symposium](https://www.alz.org/sydney/overview.asp), September 2019. Sydney, Australia. [Download Poster](http://nhihin.com/files/IronPoster.pdf).
 
-- Computational Analysis Reveals an Early Brain Iron Deficiency Response in a Zebrafish Mutation Model of Familial Alzheimer's Disease. Presented at [Back to Basics: Understanding the Molecular Basis of Alzheimer's Disease](), September 2019. Sydney, Australia. [Download Presentation Slides]().
+- Computational Analysis Reveals an Early Brain Iron Deficiency Response in a Zebrafish Mutation Model of Familial Alzheimer's Disease. Presented at [Back to Basics: Understanding the Molecular Basis of Alzheimer's Disease](), September 2019. Sydney, Australia. [Download Presentation Slides](http://nhihin.com/files/B2B_Workshop.pdf).
 
-- Bioinformatic Analysis of familial Alzheimer's disease-like zebrafish. Presented at the Australia-Japan Neurodegenerative Disease Symposium, June 2019. Adelaide, Australia. [Download Presentation Slides]().
+- Bioinformatic Analysis of familial Alzheimer's disease-like zebrafish. Presented at the Australia-Japan Neurodegenerative Disease Symposium, June 2019. Adelaide, Australia. [Download Presentation Slides](http://nhihin.com/files/Neurodegeneration_Symposium_pres.pdf).
 
-- Diving into Alzheimer's Disease with Transcriptome Analysis of a Zebrafish Model. Presented at [COMBINE](https://combine.org.au), October 2017. Adelaide, Australia. [Download Presentation Slides](). [Download Poster](). 
+- Diving into Alzheimer's Disease with Transcriptome Analysis of a Zebrafish Model. Presented at [COMBINE](https://combine.org.au), October 2017. Adelaide, Australia. [Download Presentation Slides](http://nhihin.com/files/NH-COMBINE-Presentation-Slides.pdf). [Download Poster](http://nhihin.com/files/PosterCOMBINE.gif). 
 
-- RNA-seq analysis of aging and Alzheimer's disease in a zebrafish model. Presented at the [Model Organism Human Health Australia meeting](https://www.hgsa.org.au/events/event/model-organisms-in-human-health-australia-mohha-meeting-2017), June 2017. Melbourne, Victoria. [Download Poster]().
+- RNA-seq analysis of aging and Alzheimer's disease in a zebrafish model. Presented at the [Model Organism Human Health Australia meeting](https://www.hgsa.org.au/events/event/model-organisms-in-human-health-australia-mohha-meeting-2017), June 2017. Melbourne, Victoria. [Download Poster](http://nhihin.com/files/PosterMOHHA.gif).
+
+## Workshops / Teaching 
+
+- Introduction to R & RStudio for Biological Research at [Spring Into Bioinformatics](https://www.adelaide.edu.au/bioinformatics-hub/events/list/2019/10/spring-into-bioinformatics), October 2019.  
 
 ## Awards
 
