@@ -1,10 +1,11 @@
 # Nhi Hin
 
-PhD student based at the University of Adelaide's [Bioinformatics Hub](https://twitter.com/UofABioinfoHub) and [Alzheimer's Disease Genetics Laboratory](https://facebook.com/forgetfulfish). 
+PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https://twitter.com/UofABioinfoHub) and [Alzheimer's Disease Genetics Laboratory](https://facebook.com/forgetfulfish). 
 
 Twitter: [@nhihin](https://twitter.com/NhiHin)
 
 [Google Scholar](https://scholar.google.com.au/citations?user=oLcwgrcAAAAJ&hl=en)
+
 
 ## Publications
 
@@ -14,19 +15,19 @@ Twitter: [@nhihin](https://twitter.com/NhiHin)
 
 ## Conferences
 
-- Computational Analysis Reveals an Early Brain Iron Deficiency Response in a Zebrafish Model of Familial Alzheimer's Disease. Presented at [Alzheimer's Association Satellite Symposium](https://www.alz.org/sydney/overview.asp), September 2019. Sydney, Australia. [Download Poster](http://nhihin.com/files/IronPoster.pdf).
+- Computational Analysis Reveals an Early Brain Iron Deficiency Response in a Zebrafish Model of Familial Alzheimer's Disease. Presented at the *Alzheimer's Association Satellite Symposium*, September 2019. Sydney, Australia. [Download Poster](http://nhihin.com/files/IronPoster.pdf).
 
-- Computational Analysis Reveals an Early Brain Iron Deficiency Response in a Zebrafish Mutation Model of Familial Alzheimer's Disease. Presented at [Back to Basics: Understanding the Molecular Basis of Alzheimer's Disease](), September 2019. Sydney, Australia. [Download Presentation Slides](http://nhihin.com/files/B2B_Workshop.pdf).
+- Computational Analysis Reveals an Early Brain Iron Deficiency Response in a Zebrafish Mutation Model of Familial Alzheimer's Disease. Presented at the *Back to Basics: Understanding the Molecular Basis of Alzheimer's Disease workshop*, September 2019. Sydney, Australia. [Download Presentation Slides](http://nhihin.com/files/B2B_Workshop.pdf).
 
-- Bioinformatic Analysis of familial Alzheimer's disease-like zebrafish. Presented at the Australia-Japan Neurodegenerative Disease Symposium, June 2019. Adelaide, Australia. [Download Presentation Slides](http://nhihin.com/files/Neurodegeneration_Symposium_pres.pdf).
+- Bioinformatic Analysis of familial Alzheimer's disease-like zebrafish. Presented at the *Australia-Japan Neurodegenerative Disease Symposium*, June 2019. Adelaide, Australia. [Download Presentation Slides](http://nhihin.com/files/Neurodegeneration_Symposium_pres.pdf).
 
-- Diving into Alzheimer's Disease with Transcriptome Analysis of a Zebrafish Model. Presented at [COMBINE](https://combine.org.au), October 2017. Adelaide, Australia. [Download Presentation Slides](http://nhihin.com/files/NH-COMBINE-Presentation-Slides.pdf). [Download Poster](http://nhihin.com/files/PosterCOMBINE.gif). 
+- Diving into Alzheimer's Disease with Transcriptome Analysis of a Zebrafish Model. Presented at *COMBINE*, October 2017. Adelaide, Australia. [Download Presentation Slides](http://nhihin.com/files/NH-COMBINE-Presentation-Slides.pdf). [Download Poster](http://nhihin.com/files/PosterCOMBINE.gif). 
 
-- RNA-seq analysis of aging and Alzheimer's disease in a zebrafish model. Presented at the [Model Organism Human Health Australia meeting](https://www.hgsa.org.au/events/event/model-organisms-in-human-health-australia-mohha-meeting-2017), June 2017. Melbourne, Victoria. [Download Poster](http://nhihin.com/files/PosterMOHHA.gif).
+- RNA-seq analysis of aging and Alzheimer's disease in a zebrafish model. Presented at the *Model Organism Human Health Australia meeting*, June 2017. Melbourne, Victoria. [Download Poster](http://nhihin.com/files/PosterMOHHA.gif).
 
 ## Workshops / Teaching 
 
-- Introduction to R & RStudio for Biological Research at [Spring Into Bioinformatics](https://www.adelaide.edu.au/bioinformatics-hub/events/list/2019/10/spring-into-bioinformatics), October 2019.  
+- Introduction to R & RStudio for Biological Research at [Spring Into Bioinformatics](https://www.adelaide.edu.au/bioinformatics-hub/events/list/2019/10/spring-into-bioinformatics), University of Adelaide, October 2019.  
 
 ## Awards
 
