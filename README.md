@@ -15,7 +15,9 @@ PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https:/
 
 ## Conferences
 
-- **IRON ENRICHED**. Presenting at AMSI BioInfoSummer, December 2019. Sydney, Australia. [Download Poster](http://nhihin.com/files/BioInfoSummer_IronPoster.pdf). 
+- **RNA-seq analysis of a zebrafish model of Alzheimer's disease reveals the importance of iron homeostasis**. Presented at *COMBINE 2019* and the *Joint GIW-ABACBS* (encore), December 2019. Sydney, Australia. [Download Presentation Slides](http://nhihin.com/files/COMBINE_Iron_Brain_Pres_NH.pdf). 
+
+- **IRON ENRICHED**. Presented at *AMSI BioInfoSummer*, December 2019. Sydney, Australia. [Download Presentation Slides](http://nhihin.com/files/N_Hin_IronSlides.pdf). [Download Poster](http://nhihin.com/files/BioInfoSummer_IronPoster.pdf). 
 
 - **We observed iron deficiency in the brain with aging, hypoxia, & a familial Alzheimer’s disease-like mutation**. Presented at the *Alzheimer's Association Satellite Symposium*, September 2019. Sydney, Australia. [Download Poster](http://nhihin.com/files/IronPoster.pdf).
 
@@ -35,10 +37,12 @@ PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https:/
 
 ## Awards
 
+- **2019 -** Best Oral Presentation Award (1st Prize), *COMBINE 2019, Sydney*
+- **2019 -** Best Poster Award, *AMSI BioInfoSummer, Sydney*
 - **2019 -** Best Student Presentation Award,  *Australia-Japan Joint Neurodegenerative Disease Symposium, Adelaide*
 - **2017 - 2018 -** Master of Philosophy Scholarship (no honours), *University of Adelaide*
-- **2017 -** Top 3 Presentation Award, *COMBINE 2017, Adelaide*
-- **2017 -** Best Poster Award, <i>Model Organisms in Human Health Australia (MOHHA), Melbourne</i>
+- **2017 -** Oral Presentation Award (3rd Prize), *COMBINE 2017, Adelaide*
+- **2017 -** Best Poster Award, *Model Organisms in Human Health Australia (MOHHA), Melbourne*
 - **2015, 2016 -** Summer Research Scholarship, *University of Adelaide*
 - **2014, 2015, 2016 -** Outstanding Academic Award, *University of Adelaide*
 
