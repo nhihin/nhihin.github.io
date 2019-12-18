@@ -4,6 +4,7 @@ PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https:/
 
 - Twitter: [@nhihin](https://twitter.com/NhiHin)
 - [Google Scholar](https://scholar.google.com.au/citations?user=oLcwgrcAAAAJ&hl=en)
+- [Lab Facebook page](https://www.facebook.com/forgetfulfish)
 
 
 ## Publications
