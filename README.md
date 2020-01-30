@@ -1,6 +1,6 @@
 # Nhi Hin
 
-PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https://twitter.com/UofABioinfoHub) and [Alzheimer's Disease Genetics Laboratory](https://facebook.com/forgetfulfish). 
+PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https://www.adelaide.edu.au/bioinformatics-hub/people/students#nhi-hin-phd-candidate) and [Alzheimer's Disease Genetics Laboratory](https://facebook.com/forgetfulfish). 
 
 - Twitter: [@nhihin](https://twitter.com/NhiHin)
 - [Google Scholar](https://scholar.google.com.au/citations?user=oLcwgrcAAAAJ&hl=en)
@@ -9,9 +9,9 @@ PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https:/
 
 ## Publications
 
-- Newman, M, **Hin, N**, Pederson, S, Lardelli, M. 2019. [A familial Alzheimer's disease-like mutation in the zebrafish presenilin 1 gene affects brain energy production](https://molecularbrain.biomedcentral.com/track/pdf/10.1186/s13041-019-0467-y). *Molecular Brain*. **12**(43).
-
 - **Hin, N**, Newman, M, Douek AM, Lumsden, A, Zhou, X, Ludington, A, Adelson, DL, Pederson, S, Lardelli, M. 2020. [Accelerated brain aging towards transcriptional inversion in a zebrafish model of the K115fs mutation of human PSEN2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227258). *PLOS ONE*. **15**(1).
+
+- Newman, M, **Hin, N**, Pederson, S, Lardelli, M. 2019. [A familial Alzheimer's disease-like mutation in the zebrafish presenilin 1 gene affects brain energy production](https://molecularbrain.biomedcentral.com/track/pdf/10.1186/s13041-019-0467-y). *Molecular Brain*. **12**(43).
 
 
 ## Conferences
