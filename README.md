@@ -40,6 +40,7 @@ PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https:/
 
 - **2019 -** Best Oral Presentation Award (1st Prize), *COMBINE 2019, Sydney*
 - **2019 -** Best Poster Award, *AMSI BioInfoSummer, Sydney*
+- **2019 -** CHOOSEMaths Grant Winner, *AMSI, Sydney* ([grant recipient profile](https://research.amsi.org.au/choosemaths-nhi-hin/))
 - **2019 -** Best Student Presentation Award,  *Australia-Japan Joint Neurodegenerative Disease Symposium, Adelaide*
 - **2017 - 2018 -** Master of Philosophy Scholarship (no honours), *University of Adelaide*
 - **2017 -** Oral Presentation Award (3rd Prize), *COMBINE 2017, Adelaide*
