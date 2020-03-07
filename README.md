@@ -3,6 +3,7 @@
 PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https://www.adelaide.edu.au/bioinformatics-hub/people/students#nhi-hin-phd-candidate) and [Alzheimer's Disease Genetics Laboratory](https://facebook.com/forgetfulfish). 
 
 - Twitter: [@nhihin](https://twitter.com/NhiHin)
+- [LinkedIn](https://www.linkedin.com/in/nhihin/)
 - [Google Scholar](https://scholar.google.com.au/citations?user=oLcwgrcAAAAJ&hl=en)
 - [Lab Facebook page](https://www.facebook.com/forgetfulfish)
 
