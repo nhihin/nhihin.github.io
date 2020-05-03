@@ -10,6 +10,8 @@ PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https:/
 
 ## Publications
 
+- **Hin, N**, Newman, M, Pederson, S, Lardelli, M. 2020. [Iron Responsive Element (IRE)-mediated responses to iron dyshomeostasis in Alzheimer's disease](https://biorxiv.org/cgi/content/short/2020.05.01.071498v1). *bioRxiv [pre-print]*.
+
 - **Hin, N**, Newman, M, Douek AM, Lumsden, A, Zhou, X, Ludington, A, Adelson, DL, Pederson, S, Lardelli, M. 2020. [Accelerated brain aging towards transcriptional inversion in a zebrafish model of the K115fs mutation of human PSEN2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227258). *PLOS ONE*. **15**(1).
 
 - Newman, M, **Hin, N**, Pederson, S, Lardelli, M. 2019. [A familial Alzheimer's disease-like mutation in the zebrafish presenilin 1 gene affects brain energy production](https://molecularbrain.biomedcentral.com/track/pdf/10.1186/s13041-019-0467-y). *Molecular Brain*. **12**(43).
