@@ -20,7 +20,7 @@ human gestation](https://www.medrxiv.org/cgi/content/short/2020.06.25.20139709v1
 
 - Newman M, Nik HM, Sutherland GT, **Hin N**, Kim WS, Halliday GM, Jayadev S, Smith C, Laird A, Lucas C, Kittipassorn T, Peet DJ, Lardelli M. (2020). [Accelerated loss of hypoxia response in zebrafish with familial Alzheimer’s disease-like mutation of Presenilin 1](https://www.biorxiv.org/content/10.1101/526277v2.abstract). *bioRxiv*. doi: 10.1101/526277. *PREPRINT*.
 
-- Dong Y, Newman M, Pederson S, Hin N, Lardelli M. (2020). [Transcriptome analyses of 7-day-old zebrafish larvae possessing a familial Alzheimer's disease-like mutation in *psen1* indicate effects on oxidative phosphorylation, mcm functions, and iron homeostasis](https://www.biorxiv.org/content/10.1101/2020.05.03.075424v1.abstract). *bioRxiv*. doi: 10.1101/2020.05.03.075424. *PREPRINT*.
+- Dong Y, Newman M, Pederson S, **Hin N**, Lardelli M. (2020). [Transcriptome analyses of 7-day-old zebrafish larvae possessing a familial Alzheimer's disease-like mutation in *psen1* indicate effects on oxidative phosphorylation, mcm functions, and iron homeostasis](https://www.biorxiv.org/content/10.1101/2020.05.03.075424v1.abstract). *bioRxiv*. doi: 10.1101/2020.05.03.075424. *PREPRINT*.
 
 
 ## Conferences
