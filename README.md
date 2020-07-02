@@ -2,19 +2,25 @@
 
 PhD candidate based at the University of Adelaide's [Bioinformatics Hub](https://www.adelaide.edu.au/bioinformatics-hub/people/students#nhi-hin-phd-candidate) and [Alzheimer's Disease Genetics Laboratory](https://facebook.com/forgetfulfish). 
 
+- Twitter: [@nhihin](https://twitter.com/NhiHin)
 - [LinkedIn](https://www.linkedin.com/in/nhihin/)
 - [Google Scholar](https://scholar.google.com.au/citations?user=52LDxfQAAAAJ&hl=en)
-- [Lab Facebook page](https://www.facebook.com/forgetfulfish)
-- Twitter: [@nhihin](https://twitter.com/NhiHin)
 
 
 ## Publications
 
-- **Hin, N**, Newman, M, Pederson, S, Lardelli, M. 2020. [Iron Responsive Element (IRE)-mediated responses to iron dyshomeostasis in Alzheimer's disease](https://biorxiv.org/cgi/content/short/2020.05.01.071498v1). *bioRxiv [pre-print]*.
+- **Hin, N**, Newman, M, Pederson, S, Lardelli, M. (2020). [Iron Responsive Element (IRE)-mediated responses to iron dyshomeostasis in Alzheimer's disease](https://biorxiv.org/cgi/content/short/2020.05.01.071498v1). *bioRxiv*. doi: 10.1101/2020.05.01.071498. *PREPRINT*.
 
-- **Hin, N**, Newman, M, Douek AM, Lumsden, A, Zhou, X, Ludington, A, Adelson, DL, Pederson, S, Lardelli, M. 2020. [Accelerated brain aging towards transcriptional inversion in a zebrafish model of the K115fs mutation of human PSEN2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227258). *PLOS ONE*. **15**(1).
+- **Hin, N**, Newman, M, Douek AM, Lumsden, A, Zhou, X, Ludington, A, Adelson, DL, Pederson, S, Lardelli, M. (2020). [Accelerated brain aging towards transcriptional inversion in a zebrafish model of the K115fs mutation of human PSEN2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227258). *PLOS ONE*. **15**(1).
 
-- Newman, M, **Hin, N**, Pederson, S, Lardelli, M. 2019. [A familial Alzheimer's disease-like mutation in the zebrafish presenilin 1 gene affects brain energy production](https://molecularbrain.biomedcentral.com/track/pdf/10.1186/s13041-019-0467-y). *Molecular Brain*. **12**(43).
+- Newman, M, **Hin, N**, Pederson, S, Lardelli, M. (2019). [A familial Alzheimer's disease-like mutation in the zebrafish presenilin 1 gene affects brain energy production](https://molecularbrain.biomedcentral.com/track/pdf/10.1186/s13041-019-0467-y). *Molecular Brain*. **12**(43).
+
+- Breen J, McAninch D, Jankovic-Karasoulos T, McCullough D, Smith MD, Bogias KJ, Wan Q, Choudhry A, **Hin N**, Pederson S, Bianco-Miotto T, Roberts C. (2020). [Temporal placental genome wide expression profiles reflect three phases of utero-placental blood flow during early to mid
+human gestation](https://www.medrxiv.org/cgi/content/short/2020.06.25.20139709v1). *medRxiv*. doi: 10.1101/2020.06.25.20139709. *PREPRINT*.
+
+- Newman M, Nik HM, Sutherland GT, **Hin N**, Kim WS, Halliday GM, Jayadev S, Smith C, Laird A, Lucas C, Kittipassorn T, Peet DJ, Lardelli M. (2020). [Accelerated loss of hypoxia response in zebrafish with familial Alzheimer’s disease-like mutation of Presenilin 1](https://www.biorxiv.org/content/10.1101/526277v2.abstract). *bioRxiv*. doi: 10.1101/526277. *PREPRINT*.
+
+- Dong Y, Newman M, Pederson S, Hin N, Lardelli M. (2020). [Transcriptome analyses of 7-day-old zebrafish larvae possessing a familial Alzheimer's disease-like mutation in *psen1* indicate effects on oxidative phosphorylation, mcm functions, and iron homeostasis](https://www.biorxiv.org/content/10.1101/2020.05.03.075424v1.abstract). *bioRxiv*. doi: 10.1101/2020.05.03.075424. *PREPRINT*.
 
 
 ## Conferences
