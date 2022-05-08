@@ -1081,3 +1081,51 @@ input, select, textarea {
 		#header nav {
 			padding: 0 1em;
 		} }
+
+#links {
+	width: 412.5px;
+	margin: 0 auto;
+}
+#links li {
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid white;
+	line-height:1.25;
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#links li:hover {
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px dotted white;
+	background: #81a8f0;
+	line-height:1.25;
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;
+}
+
+#links li:active {
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 2px solid white;
+	background: #81a8f0;
+	line-height:1.25;
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#links li a {
+	border-bottom: 0px solid;
+}
