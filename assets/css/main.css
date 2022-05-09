@@ -1137,6 +1137,8 @@ a:hover {
     font-size: 14px;
     margin-top: 10px;
     margin-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 #links li:hover {
@@ -1170,4 +1172,14 @@ a:hover {
 
 #links li a {
     border-bottom: 0px solid;
+}
+
+.hoverlink {
+    font-weight: bold;
+    color: yellow;
+}
+
+.hoverlink:hover {
+    border-bottom: 1px dotted !important;
+    color: white;
 }
