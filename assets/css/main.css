@@ -174,8 +174,15 @@ html {
 }
 
 body {
-    background: #fff;
     overflow: hidden;
+    background: black url("images/koi.webp");
+    opacity: 0.8;
+    /*Replace this with your own background image.*/
+    text-align: left;
+    /*Text is centered by default.*/
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 body.is-preload *,
@@ -308,10 +315,7 @@ a:hover {
 /* BG */
 
 #bg {
-    -moz-animation: bg 60s linear infinite;
-    -webkit-animation: bg 60s linear infinite;
-    -ms-animation: bg 60s linear infinite;
-    animation: bg 60s linear infinite;
+
     -moz-backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
     -ms-backface-visibility: hidden;
@@ -321,14 +325,19 @@ a:hover {
     -ms-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
     /* Set your background with this */
-    background: cornflowerblue;
+    background: cornflowerblue url("images/road.webp");
+    /*Replace this with your own background image.*/
+    /*Text is centered by default.*/
+    /*background-size: cover !important;
+    background-attachment: fixed !important;
+    background-position: center !important;
     /*background: #348cb2 url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;*/
-    height: 100%;
+    /*height: 100%;
     left: 0;
     opacity: 1;
     position: fixed;
-    top: 0;
+    top: 0;*/
 }
 
 @-moz-keyframes bg {
@@ -751,6 +760,7 @@ a:hover {
     -webkit-touch-callout: none;
     border: 0;
     display: inline-block;
+
 }
 
 #header nav a:before {
@@ -1133,6 +1143,7 @@ a:hover {
     padding-top: 10px;
     padding-bottom: 10px;
     border: 1px solid white;
+    background: rgba(0,0,0,0.7);
     line-height: 1.25;
     font-size: 14px;
     margin-top: 10px;
@@ -1146,7 +1157,7 @@ a:hover {
     padding-top: 10px;
     padding-bottom: 10px;
     border: 1px dotted white;
-    background: #81a8f0;
+    background: rgba(0,0,0,0.7);
     line-height: 1.25;
     font-size: 14px;
     margin-top: 10px;
@@ -1163,7 +1174,7 @@ a:hover {
     padding-top: 10px;
     padding-bottom: 10px;
     border: 2px solid white;
-    background: #81a8f0;
+    /*background: #81a8f0;*/
     line-height: 1.25;
     font-size: 14px;
     margin-top: 10px;
