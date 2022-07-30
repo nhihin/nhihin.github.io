@@ -623,7 +623,7 @@ a:hover {
 }
 
 #header {
-    -moz-animation: header 1s 2.25s forwards;
+    /*-moz-animation: header 1s 2.25s forwards;
     -webkit-animation: header 1s 2.25s forwards;
     -ms-animation: header 1s 2.25s forwards;
     animation: header 1s 2.25s forwards;
@@ -634,10 +634,10 @@ a:hover {
     -moz-transform: translate3d(0, 0, 0);
     -webkit-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);*/
     cursor: default;
     display: inline-block;
-    opacity: 0;
+    opacity: 1;
     position: relative;
     text-align: center;
     top: -1em;
@@ -664,7 +664,7 @@ a:hover {
 }
 
 #header nav li {
-    -moz-animation: nav-icons 0.5s ease-in-out forwards;
+    /*-moz-animation: nav-icons 0.5s ease-in-out forwards;
     -webkit-animation: nav-icons 0.5s ease-in-out forwards;
     -ms-animation: nav-icons 0.5s ease-in-out forwards;
     animation: nav-icons 0.5s ease-in-out forwards;
@@ -675,11 +675,11 @@ a:hover {
     -moz-transform: translate3d(0, 0, 0);
     -webkit-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);*/
     display: inline-block;
     height: 5.35em;
     line-height: 5.885em;
-    opacity: 0;
+    opacity: 1;
     position: relative;
     top: 0;
     width: 5.35em;
@@ -1194,4 +1194,8 @@ a:hover {
 .hoverlink:hover {
     border-bottom: 1px dotted !important;
     color: white;
+}
+
+.copyright {
+  font-size: 11px;
 }
