@@ -243,7 +243,7 @@ a:hover {
     text-rendering: auto;
     line-height: 1;
     text-transform: none !important;
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 7 Free';
     font-weight: 400;
 }
 
@@ -256,7 +256,7 @@ a:hover {
 }
 
 .icon.brands:before {
-    font-family: 'Font Awesome 5 Brands';
+    font-family: 'Font Awesome 7 Brands';
 }
 
 
@@ -676,13 +676,16 @@ a:hover {
     -webkit-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);*/
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     height: 5.35em;
     line-height: 5.885em;
     opacity: 1;
     position: relative;
     top: 0;
     width: 5.35em;
+    text-align: center;
 }
 
 /*
@@ -761,6 +764,7 @@ a:hover {
     -webkit-touch-callout: none;
     border: 0;
     display: inline-block;
+    width: 100%;
 
 }
 
